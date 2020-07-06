@@ -1,14 +1,14 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Jio Javier
+tagline: Jio Javier
+email: jiojavier@protonmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  Personal website of Jio.
+baseurl: "/jio-javier"
+url: "https:/jiojavier.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+#gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 
 paginate: 5
@@ -19,7 +19,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname:
 
 
 plugins:
@@ -60,7 +60,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Jio Javier"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
