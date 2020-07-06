@@ -1,6 +1,11 @@
-- name: Pages
-  link: /#
-  dropdown:
+- name: Projects
+  link: /projects/
+- name: Resume
+  link: /CV/
+#- name: Pages
+#  link: /#
+  #--
+  #dropdown:
     - name: Page With Sidebar
       link: /page-1/
     - name: Page No Sidebar
@@ -19,9 +24,11 @@
       link: /landing/
     - name: Sponsors Page
       link: /sponsors/
-- name: Products
-  link: /products/
-- name: Showcase
-  link: /showcase/
+#- name: Products
+#  link: /products/
+#- name: Showcase
+#  link: /showcase/
 - name: Blog
   link: /blog/
+- name: Contact
+  link: /contact/
