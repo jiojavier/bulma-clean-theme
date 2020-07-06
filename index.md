@@ -2,7 +2,7 @@
 title: Jio Javier
 subtitle:
 layout: page
-callouts: home_callouts
+#callouts: home_callouts
 show_sidebar: false
 ---
 
