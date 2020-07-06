@@ -4,8 +4,8 @@ tagline: Jio Javier
 email: jiojavier@protonmail.com
 description: >
   Personal website of Jio.
-baseurl: "/jio-javier"
-url: "https:/jiojavier.github.io"
+#baseurl: "/jio-javier"
+#url: "https:/jiojavier.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
